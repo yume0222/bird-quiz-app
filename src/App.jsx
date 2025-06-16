@@ -7,7 +7,7 @@ import ResultPage from './pages/ResultPage'
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={import.meta.env.DEV ? "/" : "/bird-quiz-app/"}>
       <Routes>
         <Route path={ROUTES.HOME} element={<HomePage />} />
         <Route path={ROUTES.QUIZ} element={<QuizPage />} />
