@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yume0222.github.io/bird-quiz-app/",
+  "homepage": "https://yume0222.github.io/bird-quiz-app",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
