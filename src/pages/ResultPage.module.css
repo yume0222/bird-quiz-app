@@ -1,0 +1,21 @@
+.resultTitle {
+  margin-top: .5rem;
+}
+.buttonContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+.toQuizButton {
+  background: #8ba98d;
+  color: white;
+}
+.linkColor {
+  color: #ffffff;
+}
+.toHomeButton {
+  border: 1px solid #ccc;
+  background: transparent;
+  color: #2c3e3e;
+}

@@ -1,0 +1,16 @@
+.quizItem {
+  margin: 1rem 0;
+}
+.button {
+  width: 100%;
+  border: 1px solid #d0d0c8;
+  background: #f4f4f0;
+  color: #2c3e3e;
+}
+
+@media (min-width: 768px) {
+  /* .button {
+    font-size: 1.1rem;
+    padding: 1rem 2rem;
+  } */
+}

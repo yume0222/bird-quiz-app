@@ -1,0 +1,9 @@
+.quizList {
+  margin-top: 2rem;
+  list-style: none;
+}
+.progress {
+  margin-top: 2rem;
+  color: #555;
+  font-size: .9rem;
+}
